@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="60mm"
+   height="35mm"
+   viewBox="0 0 60 35"
    version="1.1"
    id="svg1605"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="CuTelProhibited.svg">
+   sodipodi:docname="BABTProhibited.svg">
   <defs
      id="defs1599" />
   <sodipodi:namedview
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.3678457"
-     inkscape:cx="195.52848"
-     inkscape:cy="84.172948"
+     inkscape:zoom="1.8386977"
+     inkscape:cx="393.47508"
+     inkscape:cy="214.73336"
      inkscape:document-units="mm"
      inkscape:current-layer="g14149"
      inkscape:document-rotation="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
          transform="matrix(0.62782851,0,0,0.62782851,-0.18608575,-0.18608575)">
         <g
            id="g14173"
-           transform="translate(-389.66657,-121.52579)">
+           transform="translate(-394.60652,-122.94423)">
           <rect
              x="-0.5"
              y="-0.5"

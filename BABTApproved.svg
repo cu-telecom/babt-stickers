@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="60mm"
+   height="35mm"
+   viewBox="0 0 60 35"
    version="1.1"
    id="svg892"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="CuTelApproved.svg">
+   sodipodi:docname="BABTApproved.svg">
   <defs
      id="defs886" />
   <sodipodi:namedview
@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.208504"
-     inkscape:cx="196.22449"
-     inkscape:cy="351.38064"
+     inkscape:zoom="1.920329"
+     inkscape:cx="148.60883"
+     inkscape:cy="231.54517"
      inkscape:document-units="mm"
      inkscape:current-layer="g13557"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1412"
+     inkscape:window-height="1301"
      inkscape:window-x="0"
-     inkscape:window-y="9"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata889">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,85 +60,89 @@
         <g
            id="g13557"
            transform="matrix(0.62782851,0,0,0.62782851,-0.18608701,-0.18608575)">
-          <rect
-             x="-0.5"
-             y="-0.5"
-             rx="15"
-             ry="15"
-             width="301"
-             height="151"
-             style="fill:#ffffff;stroke:#c0c0c0;stroke-width:1"
-             id="rect1515"
-             transform="translate(-3.3858269e-6)" />
-          <circle
-             cx="150"
-             cy="75"
-             fill="#00c000"
-             id="circle1517"
-             transform="translate(-3.3858269e-6)"
-             r="67.5" />
-          <path
-             d="m 7.5,105 h 285"
-             style="stroke:#000000;stroke-width:1"
-             id="path1519"
-             transform="translate(-3.3858269e-6)" />
-          <text
-             x="150.4375"
-             y="47.927296"
-             font-size="12px"
-             id="text1527"
-             style="font-size:13.3333px;text-anchor:middle">telecommunications systems specified</text>
-          <text
-             x="149.66797"
-             y="71.857193"
-             font-size="12px"
-             id="text1529"
-             style="font-size:13.3333px;text-anchor:middle">in the instructions for use subject</text>
-          <text
-             x="150.4375"
-             y="95.607414"
-             font-size="12px"
-             id="text1531"
-             style="font-size:13.3333px;text-anchor:middle">to the conditions set out in them</text>
           <g
-             text-anchor="end"
-             id="g1541">
+             id="g875"
+             transform="translate(-294.48818,-473.35839)">
+            <rect
+               x="-0.5"
+               y="-0.5"
+               rx="15"
+               ry="15"
+               width="301"
+               height="151"
+               style="fill:#ffffff;stroke:#c0c0c0;stroke-width:1"
+               id="rect1515"
+               transform="translate(-3.3858269e-6)" />
+            <circle
+               cx="150"
+               cy="75"
+               fill="#00c000"
+               id="circle1517"
+               transform="translate(-3.3858269e-6)"
+               r="67.5" />
+            <path
+               d="m 7.5,105 h 285"
+               style="stroke:#000000;stroke-width:1"
+               id="path1519"
+               transform="translate(-3.3858269e-6)" />
             <text
-               x="285"
-               y="122"
+               x="150.4375"
+               y="47.927296"
                font-size="12px"
-               id="text1537"
-               style="font-size:13.3157px">EMF</text>
+               id="text1527"
+               style="font-size:13.3333px;text-anchor:middle">telecommunications systems specified</text>
             <text
-               x="285"
-               y="140"
+               x="149.66797"
+               y="71.857193"
                font-size="12px"
-               id="text1539"
-               style="font-size:13.3157px">/02-06-2022/05-06-2022/</text>
-          </g>
-          <g
-             id="g872"
-             transform="translate(-15.944507)">
+               id="text1529"
+               style="font-size:13.3333px;text-anchor:middle">in the instructions for use subject</text>
             <text
-               x="114.28294"
-               y="26.23893"
-               id="text1525"
-               style="text-anchor:middle"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif Bold'"
-                 id="tspan1577"><tspan
-                   style="font-size:21.3333px"
-                   id="tspan7923">APPROVED</tspan><tspan
-                   style="font-weight:normal;font-size:13.3333px"
-                   id="tspan7915" /></tspan></text>
-            <text
-               x="228.21156"
-               y="26.412107"
-               id="text1525-0"
-               style="font-family:Helvetica, Arial, sans-serif;text-anchor:middle"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif Bold'"
-                 id="tspan1577-1"><tspan
-                   style="font-weight:normal;font-size:13.3333px"
-                   id="tspan7915-9">for connection to</tspan></tspan></text>
+               x="150.4375"
+               y="95.607414"
+               font-size="12px"
+               id="text1531"
+               style="font-size:13.3333px;text-anchor:middle">to the conditions set out in them</text>
+            <g
+               text-anchor="end"
+               id="g1541">
+              <text
+                 x="285"
+                 y="122"
+                 font-size="12px"
+                 id="text1537"
+                 style="font-size:13.3157px">EMF</text>
+              <text
+                 x="285"
+                 y="140"
+                 font-size="12px"
+                 id="text1539"
+                 style="font-size:13.3157px">/02-06-2022/05-06-2022/</text>
+            </g>
+            <g
+               id="g872"
+               transform="translate(-15.944507)">
+              <text
+                 x="114.28294"
+                 y="26.23893"
+                 id="text1525"
+                 style="text-anchor:middle"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif Bold'"
+                   id="tspan1577"><tspan
+                     style="font-size:21.3333px"
+                     id="tspan7923">APPROVED</tspan><tspan
+                     style="font-weight:normal;font-size:13.3333px"
+                     id="tspan7915" /></tspan></text>
+              <text
+                 x="228.21156"
+                 y="26.412107"
+                 id="text1525-0"
+                 style="font-family:Helvetica, Arial, sans-serif;text-anchor:middle"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif Bold'"
+                   id="tspan1577-1"><tspan
+                     style="font-weight:normal;font-size:13.3333px"
+                     id="tspan7915-9">for connection to</tspan></tspan></text>
+            </g>
           </g>
         </g>
       </g>
