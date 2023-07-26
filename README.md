@@ -8,7 +8,7 @@ Note that I wasn't entirely happy with the colour of green once they were printe
 
 MrJoshua has also created some remixed CuTEL versions:
 
-<img src="images/cutel-stickers.png" width="400">
+<img src="images/cutel-stickers.jpg" width="400">
 
 ## License
 
